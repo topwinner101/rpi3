@@ -4,12 +4,12 @@
   <default sync-j="8"/>
  
 	<remote fetch="https://github.com/topwinner101" name="topwinner101"/>
-	<project remote="topwinner101" revision="rpi3_sumo" name="poky" path="sources/">
+	<project remote="topwinner101" revision="rpi3_thud" name="poky" path="sources/">
 		<linkfile src="README" dest="README"/>
 	</project>
 	<remote fetch="https://github.com/topwinner101" name="topwinner101"/>
-	<project remote="topwinner101" revision="rpi3_sumo" name="meta-raspberrypi" path="sources/meta-raspberrypi"/>
+	<project remote="topwinner101" revision="rpi3_thud" name="meta-raspberrypi" path="sources/meta-raspberrypi"/>
 	<remote fetch="https://github.com/topwinner101" name="topwinner101"/>
-	<project remote="topwinner101" revision="rpi3_sumo" name="meta-openembedded" path="sources/meta-openembedded"/>
+	<project remote="topwinner101" revision="rpi3_thud" name="meta-openembedded" path="sources/meta-openembedded"/>
    
 </manifest>
